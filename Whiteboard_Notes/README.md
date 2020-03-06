@@ -1,7 +1,7 @@
 # WHITEBOARDS NOTES
 --------------------
 
-## day 001 - [Python Basics](Whiteboard_notes_Day1)
+## day 001 - [Python Basics](Whiteboard_notes_Day1.jpg)
 
 ### What is Python:
 Python is a widely used high-level programming language for general-purpose programming
