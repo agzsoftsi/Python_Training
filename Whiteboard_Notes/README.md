@@ -56,6 +56,10 @@ Python 2.x is the legacy version and will receive only security updates until 20
 
 implemented. Note that many projects still use Python 2, although migrating to Python 3 is getting easier.
 
+...So, if the terminal displays  a python version as a 'Python 3.8.2' or 'Python 2.7.6', congrats you have Python Installed.
+
+...But, if Not go to next Step:
+
 
 
 
