@@ -60,6 +60,58 @@ implemented. Note that many projects still use Python 2, although migrating to P
 
 ...But, if Not go to next Step:
 
+2. Download and Install a Python Version(Python 3.8.2)
+
+- Go to the Official [Website](https://www.python.org/).
+
+On Windows : 
+
+a. Only go to the official Website and download the current python version for your Windows 32 or 64 bits.
+
+b. Install the Python, is simple only select Next in all step of installation process, but remember make sure to add python to the PATH.
+
+c. To be sure, open the terminal and type again 'python --version'. and if shows the version, you python is OK intalled in your windows.
+
+on Linux:
+
+a. using a terminal only types the next commands:
+
+- sudo apt-get update
+```
+root@vagrant-ubuntu-trusty-64:~# sudo apt-get update
+Hit http://security.ubuntu.com trusty-security InRelease
+Hit http://security.ubuntu.com trusty-security/main Sources
+Hit http://security.ubuntu.com trusty-security/universe Sources
+Hit http://security.ubuntu.com trusty-security/main amd64 Packages
+Hit http://security.ubuntu.com trusty-security/universe amd64 Packages
+Hit http://security.ubuntu.com trusty-security/main Translation-en
+Hit http://security.ubuntu.com trusty-security/universe Translation-en
+Get:1 http://repo.mysql.com trusty InRelease [33.3 kB]
+```
+
+- sudo apt-get install python3
+```
+root@vagrant-ubuntu-trusty-64:~# sudo apt-get install python3
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+python3 is already the newest version.
+The following packages were automatically installed and are no longer required:
+  libcanberra-gtk3-0 libcanberra-gtk3-module libcanberra0 libfontenc1
+  libllvm3.4 libnotify-bin libnotify4 libtdb1 libxaw7 libxfont1 libxkbfile1
+  libxmu6 notification-daemon sound-theme-freedesktop x11-xkb-utils
+  xfonts-base xfonts-encodings xfonts-utils xserver-common
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 7 not upgraded.
+root@vagrant-ubuntu-trusty-64:~#
+```
+
+Optional: Recommended install pip(package installer for python), pip normally is already installed in python3 >= 3.4 or python2 >= 2.7
+
+
+
+
+
 
 
 
