@@ -107,11 +107,17 @@ root@vagrant-ubuntu-trusty-64:~#
 ```
 
 Optional: Recommended install pip(package installer for python), pip normally is already installed in python3 >= 3.4 or python2 >= 2.7
+```
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+```
 
+- and PEP8 (Python Enhancement Proposal) is a style guide for python code
 
-
-
-
-
-
-
+You can install, upgrade, uninstall pep8.py with these commands:
+```
+$ pip install pep8
+$ pip install --upgrade pep8
+$ pip uninstall pep8
+```
+Current version is pep8 1.7.1
