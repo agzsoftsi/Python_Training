@@ -1,0 +1,7 @@
+root@vagrant-ubuntu-trusty-64:~# python3
+Python 3.4.3 (default, Nov 12 2018, 22:25:49)
+[GCC 4.8.4] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Python is Cool")
+Python is Cool
+>>>
