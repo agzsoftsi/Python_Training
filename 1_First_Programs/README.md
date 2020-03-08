@@ -7,3 +7,9 @@ Create a program in interactive form to print the message "Python is Cool"
 - Step 1 - Open Terminal cmd, powershell
 - Step 2 - type the command: python
 - Step 3 - type the code: print("Python is Cool")
+
+### On Linux - Interactive - [See Code](0_Program1_Linux/)
+- Step 1 - Open Terminal BASH
+- Step 2 - type the command: python3
+- Step 3 - type the code: print("Python is Cool")
+
